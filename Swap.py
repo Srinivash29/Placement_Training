@@ -5,3 +5,5 @@ t = a
 a = b
 b = t
 print("After Swapping: A = ",a,"B = ",b)
+a = -2**31
+print(a)
